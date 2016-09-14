@@ -1,13 +1,16 @@
 ## The Editor
 
-vals <- ...
+vals <- seq(1,100)
 
-vals <- seq(...,
-            ...)
+vals <- seq(from = 1,
+            to = 100)
+vals <- seq(to=100, from = 1)
+
+vals <- seq(100,1)
 
 ## Vectors
 
-counts ...
+counts...
 
 ## Lists
 
